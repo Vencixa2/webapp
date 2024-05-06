@@ -1,0 +1,46 @@
+html {
+    height: 100%;
+}
+body {
+    font-family: sans-serif;
+    text-align: center;
+    height: 100%;
+    background: #090014;
+}
+
+
+
+h1 {
+    color: #fff;
+    font-size: 60px;
+}
+p {
+    color: #fff;
+
+    font-size: 20px;
+}
+.p {
+    border: 1px solid white;
+    border-radius: 15px;
+    width: 400px;
+    height: fit-content;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 0;
+}
+button {
+    border: 5px solid white;
+    border-radius: 15px;
+    background-color: transparent;
+    color: #fff;
+    padding: 10px 20px 10px 20px;
+    cursor: pointer;
+    font-size: 26px;
+}
+button:hover {
+    background-color: #fff;
+    color: #000;
+}
+.container {
+    margin-top: 400px;
+}
